@@ -1,19 +1,19 @@
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .imagebox {
-    border-style: double;
-    border-color: brown;
-    width: 420px;
-    /* This is a quick way to centre something, but there are other ways that I'd use a lot of the time - we'll cover them later! */
-    margin: 0 auto;
+  border-style: double;
+  border-color: brown;
+  width: 430px;
+  /* This is a quick way to centre something, but there are other ways that I'd use a lot of the time - we'll cover them later! */
+  margin: 0 auto;
 }
 
 .imagebox img {
-    width: 100px;
+  width: 100px;
 }
 
 .textbox {
-    text-align: center;
+  text-align: center;
 }
