@@ -1,7 +1,15 @@
-.imagebox{
-    border-style: double;
-    border-color:brown;
+h1 {
+  text-align: center;
 }
-.imagebox > img{
-    width: 100px;
+
+.imagebox {
+  border-style: double;
+  border-color: brown;
+  width: 420px;
+  /* This is a quick way to centre something, but there are other ways that I'd use a lot of the time - we'll cover them later! */
+  margin: 0 auto;
+}
+
+.imagebox img {
+  width: 100px;
 }
