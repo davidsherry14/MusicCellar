@@ -1,0 +1,7 @@
+.imagebox{
+    border-style: double;
+    border-color:brown;
+}
+.imagebox > img{
+    width: 100px;
+}
