@@ -1,10 +1,12 @@
 h1 {
   text-align: center;
+  font-family: "Protest Guerrilla", sans-serif;
 }
 
 .imagebox {
   border-style: double;
   border-color: brown;
+  background-color: rgb(252, 152, 222);
   width: 430px;
   /* This is a quick way to centre something, but there are other ways that I'd use a lot of the time - we'll cover them later! */
   margin: 0 auto;
@@ -16,4 +18,9 @@ h1 {
 
 .textbox {
   text-align: center;
+  font-family: "Nerko One", cursive;
+}
+
+body {
+  background-color: lightblue;
 }
